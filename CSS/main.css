@@ -1,0 +1,18 @@
+body{
+    background-color: #ffbeb2a8;
+}
+.background{
+    background-color: #ffbeb2;
+}
+.header{
+    font-family: fantasy;
+}
+.border{
+    border-radius: 2px;
+}
+.font-style{
+    font-family: cursive;
+}
+.font-family{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
